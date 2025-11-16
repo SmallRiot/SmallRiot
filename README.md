@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SmallRiot
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Yandex
-- 📫 How to reach me mail: danila10fedin@gmail.com, tg: @rewtryq
+- 📫 How to reach me mail: danila10fedin@gmail.com, tg: @TutoKruto
 
 <!---
 SmallRiot/SmallRiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
